@@ -1,0 +1,1 @@
+OPCDA.PascalMing.exe -unregserver
