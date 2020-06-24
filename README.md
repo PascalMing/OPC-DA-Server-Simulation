@@ -10,3 +10,6 @@ OPC DA Server 2.05/3.0 Server releases。 OPC DA Server 2.05/3.0 发行版
 第一次使用需要注册，在管理员权限下，进入当前目录，执行： OPCDA.PascalMing.exe -regserver
 
 卸载执行：OPCDA.PascalMing.exe -unregserver
+
+ProgID:PascalMing.OpcDA
+
